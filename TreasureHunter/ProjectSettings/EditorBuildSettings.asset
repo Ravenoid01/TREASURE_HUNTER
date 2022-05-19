@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Rave.unity
+    guid: 77c698f1663037846bad35f6165495fe
+  - enabled: 1
+    path: Assets/Scenes/WinScreen.unity
+    guid: db63500d3987f914685f03bb92db5033
   m_configObjects: {}
